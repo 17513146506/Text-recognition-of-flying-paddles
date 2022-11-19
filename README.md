@@ -1,5 +1,6 @@
 # OCR-GUI-demo
 
+！[](https://github.com/17513146506/Text-recognition-of-flying-paddles/blob/main/%E4%BD%9C%E5%93%81%E6%88%AA%E5%9B%BE/1.png)
 #### 介绍
 图像文字识别OCR工具v1.1，含GUI界面。
 
